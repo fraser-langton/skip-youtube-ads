@@ -1,0 +1,1 @@
+javascript:(function(){var skipButton=document.querySelector('button.ytp-ad-skip-button-modern');if(skipButton){skipButton.click();}else{document.querySelector('video').currentTime=document.querySelector('video').duration;}})();
